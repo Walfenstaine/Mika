@@ -1,0 +1,122 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc3b5397ce811c34bab73069b41cf578, type: 3}
+  m_Name: Data
+  m_EditorClassIdentifier: 
+  fotos:
+  - {fileID: 21300000, guid: 4609a21491ac5d14d9cf807d8f361587, type: 3}
+  - {fileID: 21300000, guid: 3c044a58191acb14b99f6034c1a358d7, type: 3}
+  pol: 1
+  record: 0
+  coins: 30
+  audio: 1
+  isSaved: 0
+  inv: 050000000500000005000000
+  pers:
+  - record: 144
+    name: May
+    isPlayer: 0
+    ava: {fileID: 21300000, guid: a8d64954fe0b57645b790bdf37dc4269, type: 3}
+    min: 5
+    max: 19
+  - record: 112
+    name: Raja Nair
+    isPlayer: 0
+    ava: {fileID: 21300000, guid: 7a8d1c46398c417419f904d13ee35181, type: 3}
+    min: 5
+    max: 18
+  - record: 100
+    name: "\u0420\u0438\u0442\u0430"
+    isPlayer: 0
+    ava: {fileID: 21300000, guid: f050046cf9d0d984bbc72ba4828e193c, type: 3}
+    min: 5
+    max: 19
+  - record: 84
+    name: "\u0412\u0438\u043A\u0443\u0441\u044F \u041C\u0435\u0448\u043A\u043E\u0432\u0430"
+    isPlayer: 0
+    ava: {fileID: 21300000, guid: d474707ee1a171644adbc13cabe20fa5, type: 3}
+    min: 5
+    max: 18
+  - record: 73
+    name: "\u0415\u0432\u0430"
+    isPlayer: 0
+    ava: {fileID: 21300000, guid: 0b0c33e4bc0119140bbbc0e1a8a36cd2, type: 3}
+    min: 5
+    max: 18
+  - record: 69
+    name: Kyoko
+    isPlayer: 0
+    ava: {fileID: 21300000, guid: e5e2a8bdcb2227a449d9a8144aeb410f, type: 3}
+    min: 5
+    max: 18
+  - record: 67
+    name: "\u041C\u0430\u043A\u0441"
+    isPlayer: 0
+    ava: {fileID: 21300000, guid: 925e5889c5fef0949a34423398c39823, type: 3}
+    min: 4
+    max: 17
+  - record: 54
+    name: Eddy
+    isPlayer: 0
+    ava: {fileID: 21300000, guid: 4113778ea33a0b24d9d522e7ca218667, type: 3}
+    min: 5
+    max: 18
+  - record: 45
+    name: Nina
+    isPlayer: 0
+    ava: {fileID: 21300000, guid: 9b56a1b5c9b7c5343aa2e2e98a739602, type: 3}
+    min: 4
+    max: 17
+  - record: 32
+    name: Mark
+    isPlayer: 0
+    ava: {fileID: 21300000, guid: 74e4dbe340dfceb4a892555130332cd4, type: 3}
+    min: 3
+    max: 15
+  - record: 21
+    name: Nana
+    isPlayer: 0
+    ava: {fileID: 21300000, guid: 1876405a2a6b1044795de39c8a2b0219, type: 3}
+    min: 3
+    max: 15
+  - record: 18
+    name: "\u0420\u043E\u043C\u0430\u043D \u041F\u0430\u043B\u044B\u0447"
+    isPlayer: 0
+    ava: {fileID: 21300000, guid: 61ea74e24d227574e9b80b8ad8372132, type: 3}
+    min: 3
+    max: 15
+  - record: 17
+    name: Anton
+    isPlayer: 0
+    ava: {fileID: 21300000, guid: eb23fdbe584e07040a07f28e3e0e82d4, type: 3}
+    min: 3
+    max: 15
+  - record: 16
+    name: "\u0410\u043B\u044C\u0431\u0438\u043D\u0430"
+    isPlayer: 0
+    ava: {fileID: 21300000, guid: d211799a741460a4ca82f63ced49470c, type: 3}
+    min: 3
+    max: 15
+  - record: 14
+    name: Karina
+    isPlayer: 0
+    ava: {fileID: 21300000, guid: db1ff79c85bda6840b8803500fe1c0e5, type: 3}
+    min: 3
+    max: 15
+  - record: 0
+    name: Player
+    isPlayer: 1
+    ava: {fileID: 21300000, guid: 3c044a58191acb14b99f6034c1a358d7, type: 3}
+    min: 0
+    max: 0
+  language: ru
+  pl_name: 111
