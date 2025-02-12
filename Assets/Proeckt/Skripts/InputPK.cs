@@ -47,26 +47,30 @@ public class InputPK : MonoBehaviour
     }
     void Update()
     {
-       // if (Input.GetKeyDown(KeyCode.Escape))
-        //{
-            //Interface.rid.Sum(0, true, 0);
-       //}
-        //if (Input.GetKeyDown(KeyCode.Q))
-       // {
-            //Kompas();
-        //}
-       // if (Input.GetKeyDown(KeyCode.I))
-       // {
-           // INV();
-       // }
-       // if (Input.GetKeyDown(KeyCode.Mouse1))
-       // {
-           // Player_Muwer.rid.Kik2();
-       // }
-       // if (Player_Muwer.rid)
-       // {
-           // Player_Muwer.rid.muwe.z = Input.GetAxis("Vertical");
-           // Player_Muwer.rid.muwe.x = Input.GetAxis("Horizontal");
-       // }
+        if (Input.GetKeyDown(KeyCode.Escape))
+        {
+           Interface.rid.Sum(0, true, 0);
+       }
+        if (Input.GetKeyDown(KeyCode.Q))
+        {
+            Kompas();
+        }
+        if (Input.GetKeyDown(KeyCode.I))
+        {
+            INV();
+        }
+        if (Input.GetKeyDown(KeyCode.Mouse1))
+        {
+           Player_Muwer.rid.Kik2();
+        }
+        if (Input.GetKeyDown(KeyCode.Mouse0))
+        {
+            Player_Muwer.rid.Kik();
+        }
+        if (Player_Muwer.rid)
+        {
+            Player_Muwer.rid.muwe.z = Input.GetAxis("Vertical");
+            Player_Muwer.rid.muwe.x = Input.GetAxis("Horizontal");
+        }
     }
 }

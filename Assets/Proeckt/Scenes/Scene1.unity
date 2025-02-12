@@ -54333,6 +54333,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Mobi
       objectReference: {fileID: 0}
+    - target: {fileID: 2442045657853533809, guid: da58e18b4d4246641b04df0be2d04e59, type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 4832290067369313476, guid: da58e18b4d4246641b04df0be2d04e59, type: 3}
       propertyPath: joystickOutputEvent.m_PersistentCalls.m_Calls.Array.size
       value: 1
